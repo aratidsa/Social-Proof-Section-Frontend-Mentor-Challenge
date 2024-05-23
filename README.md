@@ -28,7 +28,7 @@ In this small project, build out this social proof section and get it looking as
 ### Links
 
 - Solution URL: https://github.com/aratidsa/Social-Proof-Section-Frontend-Mentor-Challenge
-- Live Site URL: 
+- Live Site URL: https://design-social-proof-section.netlify.app/
 
 ## My process
 
